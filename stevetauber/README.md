@@ -40,14 +40,14 @@ My role is to create an environment where you can do what you do best. If you ar
 
 **You've read the company values** - and if you've asked questions about them if you needed to.
 
-## Where I (?) succeed
+## Where I (maybe?) succeed
 
 **Improving processes** - I hate bureaucracy and will do my best to eliminate pointless tasks.
 
 **Asking questions** - I try to ask questions that make you think. Sometimes I ask questions so that I can learn.  It's okay to take time to answer.
 
-## Where I (?) fail
+## Where I (maybe?) fail
 
 **Abandoning "the plan"** - I like to have a plan. I like the plan. Sometimes it's hard for me to abandon the plan for a new plan.
 
-**Lack of recognition** - I really, really, really get upset when someone isn't getting the recognition they deserve. I can and should handle this in a less emotional way.
+**Lack of recognition** - When someone isn't getting the recognition they deserve, I get upset. I can and should handle this in a less emotional way.
