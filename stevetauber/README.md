@@ -2,7 +2,7 @@
 
 ###### July 2018
 
-This document should help the reader discover how I think about work and my approach to management. My goal is to answer questions you might have.
+This document should help the reader discover how I think about work and my approach to management. My goal is to answer questions you might have. It tries to answer: what makes me different than another manager that would be implementing the same policies?
 
 ## Who am I?
 
@@ -26,17 +26,17 @@ My role is to create an environment where you can do what you do best. If you ar
 
 **Transparency** - We default to transparent. Rarely information will be concealed. I will never lie to you.
 
-**Feedback** - Green/Yellow/Red standings. Green is the default and unless otherwise explicitly stated in writing the state you are in. Yellow is a sign that our current state is unsustainable in the long run. If the situation doesn't improve, then a timeboxed improvement plan will be enacted. This is the Red state. Red is not the end of the world. Recovery is possible.
+**Feedback** - I criticize in privacy and praise in public. If you would prefer to be praised in privacy, please let me know. We follow the standard color coding for employee status and unless explicitly communicated in *writing*, you are green.
 
 ## What I expect from you
 
-**Feedback** - If I am doing something that is hindering you or causing you stress, please immediately speak up.
+**Feedback** - If I am doing something that is hindering you or causing you stress, please immediately speak up. Don't hide things.
 
 **Reflection** - Take time to think and reflect. At least 1 hour per week at a consistent time, free from all distraction. It's usually best to do this on Fridays.
 
 **Make decisions** - You are the subject matter expert. I can provide guidance, but technical decisions are ultimately yours.
 
-**Async communication** - Email and Slack are distractions to core contributions. If something is especially urgent, we'll use the phone.
+**Avoid distractions** - Some non-obvious distractions: meetings without an agenda, email, slack messages. Close messaging apps while you need to focus. Stand up and leave worthless meetings.
 
 **You've read the company values** - and if you've asked questions about them if you needed to.
 
